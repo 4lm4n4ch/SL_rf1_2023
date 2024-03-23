@@ -1,0 +1,64 @@
+<mxfile host="Electron" modified="2023-10-18T17:14:13.952Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="wHieYlUOv5JK92OdkoFo" version="22.0.2" type="device">
+  <diagram name="Page-1" id="TlXluLPLRK5lZ81wHtbv">
+    <mxGraphModel dx="3187" dy="1858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tSPmHJ9Mjs32o8Gyinhj-28" value="&lt;h1&gt;&lt;font style=&quot;font-size: 36px; font-weight: normal;&quot;&gt;jogosultságok&lt;/font&gt;&lt;/h1&gt;" style="shape=folder;fontStyle=1;spacingTop=30;tabWidth=120;tabHeight=40;tabPosition=left;html=1;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1368" y="120" width="430" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="tSPmHJ9Mjs32o8Gyinhj-4" value="&lt;h1&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;vásárlás&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="shape=folder;fontStyle=1;spacingTop=20;tabWidth=160;tabHeight=40;tabPosition=left;html=1;whiteSpace=wrap;align=center;verticalAlign=top;labelBackgroundColor=none;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="368" y="120" width="720" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="tSPmHJ9Mjs32o8Gyinhj-5" value="&lt;h2&gt;&lt;font style=&quot;font-size: 24px; font-weight: normal;&quot;&gt;jegy vásárlás&lt;/font&gt;&lt;/h2&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=80;tabHeight=30;tabPosition=left;html=1;whiteSpace=wrap;align=center;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="408" y="270" width="300" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="tSPmHJ9Mjs32o8Gyinhj-6" value="&lt;h2&gt;&lt;font style=&quot;font-size: 24px; font-weight: normal;&quot;&gt;aranykártya vásárlás&lt;/font&gt;&lt;/h2&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=80;tabHeight=30;tabPosition=left;html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="748" y="270" width="300" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="tSPmHJ9Mjs32o8Gyinhj-11" value="&lt;h1&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;felhasználó&lt;/span&gt;&lt;/h1&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=80;tabHeight=30;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1433" y="280" width="300" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="tSPmHJ9Mjs32o8Gyinhj-18" value="&lt;h1 style=&quot;font-size: 36px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;adatbázis&lt;/span&gt;&lt;/h1&gt;" style="shape=folder;fontStyle=1;spacingTop=20;tabWidth=160;tabHeight=40;tabPosition=left;html=1;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="368" y="1080" width="720" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="tSPmHJ9Mjs32o8Gyinhj-19" value="&lt;h2&gt;&lt;font style=&quot;font-size: 24px; font-weight: normal;&quot;&gt;adatbázis kezelés&lt;/font&gt;&lt;/h2&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=80;tabHeight=30;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="748" y="1230" width="300" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="tSPmHJ9Mjs32o8Gyinhj-20" value="&lt;h2&gt;&lt;font style=&quot;font-size: 24px; font-weight: normal;&quot;&gt;admin&lt;/font&gt;&lt;/h2&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=80;tabHeight=30;tabPosition=left;whiteSpace=wrap;verticalAlign=middle;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1433" y="540" width="300" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="tSPmHJ9Mjs32o8Gyinhj-22" value="&lt;h2&gt;&lt;font style=&quot;font-size: 24px; font-weight: normal;&quot;&gt;adatok&lt;/font&gt;&lt;/h2&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=80;tabHeight=30;tabPosition=left;whiteSpace=wrap;verticalAlign=middle;html=1;" vertex="1" parent="1">
+          <mxGeometry x="408" y="1230" width="300" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="tSPmHJ9Mjs32o8Gyinhj-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.498;entryY=0.074;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tSPmHJ9Mjs32o8Gyinhj-4" target="tSPmHJ9Mjs32o8Gyinhj-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tSPmHJ9Mjs32o8Gyinhj-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=115;exitPerimeter=0;entryX=0;entryY=0;entryDx=720;entryDy=240;entryPerimeter=0;" edge="1" parent="1" source="tSPmHJ9Mjs32o8Gyinhj-11" target="tSPmHJ9Mjs32o8Gyinhj-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tSPmHJ9Mjs32o8Gyinhj-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=115;exitPerimeter=0;entryX=0;entryY=0;entryDx=300;entryDy=115;entryPerimeter=0;" edge="1" parent="1" source="tSPmHJ9Mjs32o8Gyinhj-20" target="tSPmHJ9Mjs32o8Gyinhj-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tSPmHJ9Mjs32o8Gyinhj-33" value="&lt;h1&gt;&lt;span style=&quot;font-size: 36px; font-weight: 400;&quot;&gt;kialakítás&lt;/span&gt;&lt;/h1&gt;" style="shape=folder;fontStyle=1;spacingTop=30;tabWidth=120;tabHeight=40;tabPosition=left;html=1;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1368" y="840" width="430" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="tSPmHJ9Mjs32o8Gyinhj-34" value="&lt;h1&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;UI&lt;/span&gt;&lt;/h1&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=80;tabHeight=30;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1423" y="1010" width="300" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="tSPmHJ9Mjs32o8Gyinhj-35" value="&lt;h2&gt;&lt;font style=&quot;font-size: 24px; font-weight: normal;&quot;&gt;UX&lt;/font&gt;&lt;/h2&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=80;tabHeight=30;tabPosition=left;whiteSpace=wrap;verticalAlign=middle;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1423" y="1270" width="300" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="tSPmHJ9Mjs32o8Gyinhj-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=430;exitDy=360;exitPerimeter=0;entryX=0;entryY=0;entryDx=300;entryDy=115;entryPerimeter=0;" edge="1" parent="1" source="tSPmHJ9Mjs32o8Gyinhj-33" target="tSPmHJ9Mjs32o8Gyinhj-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1968" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1968" y="1200" />
+              <mxPoint x="1968" y="395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
