@@ -119,14 +119,14 @@ A projekt a következő emberekből áll:
 
 | Név                  | Pozíció          | E-mail cím (stud-os)     |
 |----------------------|------------------|--------------------------|
-| Brockhauser Katalin  | Projektmenedzser | h142948@stud.u-szeged.hu |
-| Reitinger Richárd    | Projekt tag      | h163294@stud.u-szeged.hu |
-| Balázs-Hegedűs Áron  | Projekt tag      | h144563@stud.u-szeged.hu |
-| Kovács Ádám          | Projekt tag      | h160419@stud.u-szeged.hu |
-| Molnár Gábor Ádám    | Projekt tag      | h267659@stud.u-szeged.hu |
-| Soczó Levente        | Projekt tag      | h163864@stud.u-szeged.hu |
-| Tóth Benkő Balázs    | Projekt tag      | h270137@stud.u-szeged.hu |
-| Varga Zoltán         | Projekt tag      | h270519@stud.u-szeged.hu |
+| Brockhauser Katalin  | Projektmenedzser | - |
+| Reitinger Richárd    | Projekt tag      | - |
+| Balázs-Hegedűs Áron  | Projekt tag      | - |
+| Kovács Ádám          | Projekt tag      | - |
+| Molnár Gábor Ádám    | Projekt tag      | - |
+| Soczó Levente        | Projekt tag      | - |
+| Tóth Benkő Balázs    | Projekt tag      | - |
+| Varga Zoltán         | Projekt tag      | - |
 
 
 
