@@ -1,0 +1,18 @@
+cloud.digitalocean.com
+adatbázis és server
+
+Kitelepítés:
+
+
+git clone https://...
+cd 2023_ib153i-9_b/program/rf1-repulo-java/
+mvn clean install
+nohup java -jar target/AIR_F1-0.0.1-SNAPSHOT.jar & #hogy a terminál kikapcsolása után is menjen
+
+
+Leállítás:
+ps aux | grep java
+kill ****
+
+weboldal elérési pontja:
+http://67.207.75.106:25060
